@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iOSMenu_Example' do
+  pod 'iOSMenu', :path => '../'
+
+  target 'iOSMenu_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
