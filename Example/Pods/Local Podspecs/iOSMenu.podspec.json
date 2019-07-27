@@ -1,0 +1,22 @@
+{
+  "name": "iOSMenu",
+  "version": "0.1.0",
+  "summary": "A short description of iOSMenu.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/phdafoe/iOSMenu",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "phdafoe": "phdafoe@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/phdafoe/iOSMenu.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOSMenu/Classes/**/*"
+}

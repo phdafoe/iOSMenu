@@ -1,0 +1,6 @@
+framework module iOSMenu {
+  umbrella header "iOSMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - iOSMenu (0.1.0)
+
+DEPENDENCIES:
+  - iOSMenu (from `../`)
+
+EXTERNAL SOURCES:
+  iOSMenu:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iOSMenu: 7b7e038199c0af5eda66e32220395fb90a07717f
+
+PODFILE CHECKSUM: 30bc0d67a3136715e9aa8f63111782fa7126a31c
+
+COCOAPODS: 1.7.5
