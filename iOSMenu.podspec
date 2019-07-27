@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'iOSMenu'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'Deployment Menu for use in VIPER Architecture apps.'
 
 # This description is used to generate tags and improve search results.
@@ -18,8 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-Deployment Menu for use in VIPER Architecture apps. Install library into proyect
-when you want a Menu options VIPER Architecture, never have to write this generic
+Deployment Menu VIPER Architecture apps. Install library into proyect you want a Menu options VIPER Architecture, never have to write this generic
 code again!
                        DESC
 
@@ -38,7 +37,7 @@ code again!
   #   'iOSMenu' => ['iOSMenu/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
+  s.public_header_files = 'iOSMenu/Classes/**/*.h'
   s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
